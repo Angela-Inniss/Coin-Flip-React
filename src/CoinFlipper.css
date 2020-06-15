@@ -1,0 +1,19 @@
+button {
+    padding:10px;
+    border-radius: 4px;
+    margin:10px;
+    width:100px;
+    background-color: deeppink;
+    border: salmon;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover {
+    background-color: purple;
+}
+
+.text {
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
